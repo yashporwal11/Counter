@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import './App.css';
 import axios from 'axios';
-import CounterMain from './CounterMain';
-import CounterValueComp from './CounterValueComp';
-import Loader from './Loader';
+import CounterMain from './components/CounterMain';
+import CounterValueComp from './components/CounterValueComp';
+import Loader from './components/Loader';
 
 const name = "Yash_Porwal";
 

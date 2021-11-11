@@ -1,5 +1,5 @@
 import React from 'react';
-import './counter_value_comp.css';
+import '../css/counter_value_comp.css';
 
 function CounterValueComp({ counterValue }) {
   return (

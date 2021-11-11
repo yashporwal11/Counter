@@ -1,5 +1,5 @@
 import React from 'react'
-import './counter_main.css';
+import '../css/counter_main.css';
 
 function CounterMain({ counterValue, inputVal, incValue, decValue }) {
   return (
